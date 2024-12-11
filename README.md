@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @shanmukharagahavendra2004
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...shanmukharaghavendra.r@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Shanmukha Ragahavendra
+- 👀 I’m passionate about **coding and solving problems**
+- 🌱 I’m currently learning **React.js**
+- 💞️ I’m looking to collaborate on **web development projects or innovative coding challenges**
+- 📫 You can reach me at **shanmukharaghavendra.r@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love new tech tools
 
-<!---
-shanmukharagahavendra2004/shanmukharagahavendra2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+Feel free to connect and collabarate!
+
